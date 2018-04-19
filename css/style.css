@@ -1,0 +1,52 @@
+body{
+	margin:0;
+}
+h3{
+	color:#33CDBB;
+	}
+h2{
+	color:#9BCD33;
+	}
+h1{
+	font-family: 'Questrial', sans-serif;
+	}
+h1{
+	color:#FF3659;
+	}
+#id1{
+	color: #FF3659;
+	}
+#id2{
+	font-family: 'Lato', sans-serif;
+	}
+.inner-div{
+	font-family: 'lato', sans-serif;
+	}
+.list{
+	font-family: 'Questrial', sans-serif;
+	}
+#fixed{
+	position: fixed;
+	width:100;
+	height: 100;
+	background-color: black;
+	top:0px;}
+
+.main-div{
+	position: static;
+	}
+#fixed p{
+	color:white;
+	}
+#absolute{
+	position: absolute;
+	top:300px;
+	left:50px;
+	background-color: red;
+}
+#moving{
+	position: relative;
+	top:300px;
+	left:50px;
+	background-color: blue;
+}
